@@ -1,5 +1,5 @@
 # 基础镜像
-FROM python:3.6-alpine3.8
+FROM python:2.7.15-alpine3.8
 
 RUN mkdir /var/www
 # 指定工作路径

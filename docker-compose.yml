@@ -20,7 +20,7 @@ services:
     links:
       - uwsgi
     ports:
-      - "8092:80"
+      - "8091:80"
     environment:
       TZ: "Asia/Shanghai"
     privileged: true
