@@ -1,4 +1,4 @@
-# Flask开发环境 基于Alpine:3.8基础镜像（python3版本）
+# Flask开发环境 基于Alpine:3.8基础镜像（python2版本）
 
 ## 启动
 ```
