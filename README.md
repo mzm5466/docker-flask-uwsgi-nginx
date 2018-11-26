@@ -1,4 +1,4 @@
-# Flask开发环境
+# Flask开发环境python2版本
 
 ## 起動
 ```
